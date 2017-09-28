@@ -23,7 +23,7 @@
 │      │   └──__init__.py
 │      └──data               # 用户数据存储的地方
 │      │    ├──password.bak  # 存所有用户的账户数据基本数据
-│      │	├──password.dat
+│      │    ├──password.dat
 │      │    └──password.dir
 │      │──home               # 用户家目录
 │      └──log                # 日志目录
